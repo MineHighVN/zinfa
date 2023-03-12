@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/zinfa/static/css/main.696b0c9e.css",
-    "main.js": "/zinfa/static/js/main.4a86375c.js",
+    "main.js": "/zinfa/static/js/main.cd1a710d.js",
     "index.html": "/zinfa/index.html",
     "main.696b0c9e.css.map": "/zinfa/static/css/main.696b0c9e.css.map",
-    "main.4a86375c.js.map": "/zinfa/static/js/main.4a86375c.js.map"
+    "main.cd1a710d.js.map": "/zinfa/static/js/main.cd1a710d.js.map"
   },
   "entrypoints": [
     "static/css/main.696b0c9e.css",
-    "static/js/main.4a86375c.js"
+    "static/js/main.cd1a710d.js"
   ]
 }
